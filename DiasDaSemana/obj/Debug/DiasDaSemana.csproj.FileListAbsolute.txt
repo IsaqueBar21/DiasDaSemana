@@ -1,0 +1,7 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\DiasDaSemana\DiasDaSemana\bin\Debug\DiasDaSemana.exe.config
+C:\Users\3674532\Documents\CURSOS\C#\projetos\DiasDaSemana\DiasDaSemana\bin\Debug\DiasDaSemana.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\DiasDaSemana\DiasDaSemana\bin\Debug\DiasDaSemana.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\DiasDaSemana\DiasDaSemana\obj\Debug\DiasDaSemana.csproj.AssemblyReference.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\DiasDaSemana\DiasDaSemana\obj\Debug\DiasDaSemana.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\DiasDaSemana\DiasDaSemana\obj\Debug\DiasDaSemana.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\DiasDaSemana\DiasDaSemana\obj\Debug\DiasDaSemana.pdb
